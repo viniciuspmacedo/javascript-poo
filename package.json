@@ -1,0 +1,12 @@
+{
+  "name": "javascript-poo",
+  "version": "1.0.0",
+  "description": "Repositório para o curso: \"Javascript: programando a Orientação a Objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
